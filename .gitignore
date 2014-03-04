@@ -216,3 +216,4 @@ pip-log.txt
 /ExpressApp1/node_modules
 
 node_modules
+/ExpressApp1/*.njsproj
